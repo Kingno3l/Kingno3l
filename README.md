@@ -17,10 +17,10 @@ I'm a Professional<br>I'm a Software Engineer<br>I'm an Android Developer using 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kingno3l&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev QuotE : This may inspire or may not
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 All is well in my world
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
