@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h2> Hi, I'm King Immanuel! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+
 I'm a Professional<br>I'm a Software Engineer<br>I'm an Android Developer using Kotlin<br>I'm global and influential<br>I'm open to opportunities<br>send me a mail nuelluiz@gmail.com<br>
 
 
